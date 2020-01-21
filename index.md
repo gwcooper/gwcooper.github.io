@@ -2,7 +2,7 @@
 
 Yes, it's a rather clichéd way to start a blog that is in part about coding, but the reusabilty principles should not be ignored.
 
-I'm not quite certain exactly what I'm going to put here, but it will largely be things that interest me such as:
+I'm not sure as to exactly what I'm going to put here, but it will largely be things that interest me such as:
 
 * Algorithms and Datastructures (hello, recruiters!)
 * Biology and Bioinformatics
@@ -14,7 +14,7 @@ Please take a look around, and thank you for your time.
 
 ## About me
 
-I'm an ex-biochemistry grad student turned research engineer working at a start up focusing on human health. I'm passionate about science, great food, the idea of exercise, and above all learning.
+I'm an ex-biochemistry grad student turned research engineer working at a start up focusing on human health. I'm passionate about science, great food, the idea of exercise and above all, learning.
 
 ### The template for this blog was generously provided by [fast.ai](https://www.fast.ai).
 
